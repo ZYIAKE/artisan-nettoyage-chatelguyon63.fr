@@ -1,0 +1,17 @@
+{
+  "name": "Xtrem Clean",
+  "short_name": "Xtrem Clean",
+  "description": "Nettoyage courant des bâtiments à Châtel-Guyon",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#ffffff",
+  "theme_color": "#0F4C81",
+  "icons": [
+    {
+      "src": "/img/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
